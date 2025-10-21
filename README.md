@@ -24,4 +24,3 @@
 
 📚Research
 
-1.VisGeo-PipeTrack: A Visual Geometric Servo Framework with MPC-RCAPID Control for UAV-Based Dynamic Pipeline Tracking        Under review at ICRA (Top Conference in Robotics)

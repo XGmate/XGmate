@@ -14,13 +14,25 @@
 
 🎖️Awards & Honors
 
-1.National First Prize, "Challenge Cup" AI Track (Tackling Key Problems)
+1.National Scholarship
 
-2.National Second Prize, China Undergraduate Mathematical Contest in Modeling
+2.Provincial-Level Outstanding Student
 
-3.National Second Prize, National Software Innovation Competition for College Students
+3.Provincial-Level Outstanding Graduate
 
-4.International Second Prize, Interdisciplinary Contest in Modeling
+4.National First Prize in the "Challenge Cup" AI Special Competition (Unveiling and Leading System)
+
+5.National Second Prize in the "Huawei Cup" China Graduate Mathematical Modeling Contest
+
+6.National Top 45 (Second Prize) in the China Collegiate Software Innovation Contest
+
+7.Second Prize in the "Higher Education Press Cup" National College Mathematical Modeling Contest
+
+8.International Second Prize in the Interdisciplinary Contest in Modeling (ICM/MCM)
 
 📚Research
+1.VisGeo-PipeTrack: A Visual Geometric Servo Framework with MPC-RCAPID Control for UAV-Based Dynamic Pipeline Tracking（ICRA2026   Under View）
+
+📚Academic Appointment
+1.Served as a reviewer for ICRA (IEEE International Conference on Robotics and Automation.
 

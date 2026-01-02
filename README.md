@@ -31,10 +31,12 @@
 8.International Second Prize in the Interdisciplinary Contest in Modeling (ICM/MCM)
 
 📚Research
+
 1.VisGeo-PipeTrack: A Visual Geometric Servo Framework with MPC-RCAPID Control for UAV-Based Dynamic Pipeline Tracking（ICRA2026   Under View）
 
 2.SPCD: Stochastic Proximal Coordinate Descent\\ for Efficient and Safe Path Smoothing（ICML2026   Under View）
 
 📚Academic Appointment
+
 1.Served as a reviewer for ICRA (IEEE International Conference on Robotics and Automation.
 
